@@ -149,12 +149,7 @@
   
   
   
---> **Day-10:**
-    
-    Did a project in PHP 
-    Project Description: Whenever user will visit my site, he/she will have to add his/her details and they will be forwarded to the "Menu page". 
-    From where, they will select the books they want and add them to the cart. 
-    After choosing their books, they will press "Buy Now" option which will redirect user to the "Invoice" section, where the user will get the list of purchased books and the amount to be paid.
+
     
   
   
