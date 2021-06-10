@@ -113,9 +113,9 @@
   ![Database](https://user-images.githubusercontent.com/49318251/121225842-8fa54a00-c8a7-11eb-9afa-35e089c7b780.PNG)
   
   
--->**Day-9:**
+-->**Day-9 and Day-10:**
 
-  **Wordpress day-1**
+  **Wordpress**
   WordPress: Created a BlogSite using Wordpress and included 3 articles written by me.
   O/P:
   
