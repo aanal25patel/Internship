@@ -193,8 +193,19 @@
 
 
     
-    
-  
+ **Database Side:**
+
+**1) Database of books inserted:**
+Menu that is shown to the user.
+
+![Books_database](https://user-images.githubusercontent.com/49318251/121694524-cec1de00-cae7-11eb-8d32-f2c90da334a1.PNG)
+
+
+**2) Table of cart:**
+Data will be entered into "cart" table when user clicks on "Add to Cart".
+
+![database-cart](https://user-images.githubusercontent.com/49318251/121694656-eef19d00-cae7-11eb-9e3c-e9474fe9a4c7.PNG)
+
   
   
   
