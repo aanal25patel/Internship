@@ -147,9 +147,52 @@
 
 
   
-  
-  
+**PROJECT**:
 
+**Tried to do a project in PHP** 
+    **Project Description:** Whenever a user will visit my site, he/she will have to add his/her details and they will be forwarded to the "Menu page". 
+    From there, they will select the books they want and add them to the cart. 
+    After choosing their books, they will press the "Buy Now" option which will redirect the user to the "Invoice" section, where the user will get the list of purchased books       and the amount to be paid.
+    
+    
+    
+**Input form**
+
+
+![Capture](https://user-images.githubusercontent.com/49318251/121689151-e9915400-cae1-11eb-9e5a-5d031f985935.PNG)
+
+
+
+**Menu:**
+
+
+![Menu](https://user-images.githubusercontent.com/49318251/121689227-fd3cba80-cae1-11eb-8865-4c2b32fd91ec.PNG)
+
+
+
+**Inserting the books wanted and adding them to cart:**
+
+![Menu-values](https://user-images.githubusercontent.com/49318251/121689309-16456b80-cae2-11eb-9995-1d23eb2b72aa.PNG)
+
+![Menu-values-2](https://user-images.githubusercontent.com/49318251/121689327-19d8f280-cae2-11eb-96a3-e52b4150e86a.PNG)
+
+
+
+**After the user clicks on "BUY NOW", the user will be redirected to the INVOICE section:**
+
+
+![invoice-final](https://user-images.githubusercontent.com/49318251/121689417-337a3a00-cae2-11eb-94c5-72430f8ff96b.PNG)
+
+
+
+**Going back to the login form, it will show that the user(Your last purchase of books was of this amount and at this time):**
+
+
+![session_](https://user-images.githubusercontent.com/49318251/121689593-66243280-cae2-11eb-8d2a-dbd40bf55a29.PNG)
+
+
+
+    
     
   
   
